@@ -11,7 +11,7 @@
     RootModule = 'PartnerCenter.psm1'
 
     # Version number of this module.
-    ModuleVersion = '3.0.11'
+    ModuleVersion = '3.0.10.0'
 
     # Supported PSEditions
     CompatiblePSEditions = 'Core', 'Desktop'
