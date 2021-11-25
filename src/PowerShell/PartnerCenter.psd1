@@ -66,7 +66,6 @@
                          '.\Microsoft.IdentityModel.JsonWebTokens.dll',
                          '.\Microsoft.IdentityModel.Logging.dll',
                          '.\Microsoft.IdentityModel.Tokens.dll',
-                         '.\Microsoft.Rest.ClientRuntime.dll', 
                          '.\Microsoft.Store.PartnerCenter.dll',
                          '.\System.Runtime.CompilerServices.Unsafe.dll'
 
